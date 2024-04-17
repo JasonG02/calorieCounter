@@ -1,0 +1,192 @@
+* {
+  font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  background: #ffc684;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+nav img {
+  width: 160px;
+  height: auto;
+  margin-top: -30px;
+}
+nav h1 {
+  padding-top: 35px;
+  font-size: 30px;
+}
+.budget-bear {
+  height: auto;
+  width: 80px;
+  margin-bottom: 15px;
+}
+.form-control {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10px;
+  margin-right: 300px;
+  width: auto;
+}
+.budget-input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+}
+.budget-input2 {
+  display: flex;
+  align-items: center;
+  width: auto;
+}
+.arrow {
+  margin-left: 5px;
+  height: auto;
+  width: 20px;
+  cursor: pointer;
+}
+.edit {
+  width: 20px;
+  margin-left: 15px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+.budget-input2 input {
+  border-radius: 7px;
+  border: none;
+  padding: 4px;
+}
+.container {
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.food-items {
+  background-color: #ff8f50;
+  width: 700px;
+  height: auto;
+  border-radius: 15px;
+}
+.food-title {
+  gap: 10px;
+  cursor: pointer;
+}
+.food-img {
+  width: 80px;
+  height: auto;
+}
+.breakfast {
+  display: block;
+  padding-left: 70px;
+  padding-top: 30px;
+  gap: 10px;
+  align-items: center;
+}
+.img-div {
+  margin-right: 50px;
+}
+.part1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 100%;
+}
+.part2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+  width: 580px;
+  background-color: #ffc684;
+  border-radius: 12px;
+}
+.pt2-container {
+  margin-top: 10px;
+}
+.add-calories {
+  margin-left: 45px;
+}
+#name {
+  border-radius: 5px;
+  border: none;
+  padding: 2px;
+}
+.lunch {
+  display: block;
+  padding-left: 70px;
+  padding-top: 30px;
+  gap: 10px;
+  height: auto;
+  align-items: center;
+}
+.dinner {
+  display: block;
+  padding-left: 70px;
+  padding-top: 30px;
+  gap: 10px;
+  height: auto;
+  align-items: center;
+}
+.snacks {
+  display: block;
+  padding-left: 70px;
+  padding-top: 30px;
+  gap: 10px;
+  height: auto;
+  align-items: center;
+}
+.exercise {
+  display: block;
+  padding-left: 70px;
+  padding-top: 30px;
+  gap: 10px;
+  height: auto;
+  align-items: center;
+}
+.food-title {
+  display: flex;
+  align-items: center;
+}
+.title {
+  font-size: 25px;
+}
+.calculate {
+  width: 300px;
+  height: 50px;
+  border-radius: 15px;
+  border: none;
+  background-color: #ffff;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-size: 25px;
+  cursor: pointer;
+}
+.cross {
+  cursor: pointer;
+}
+.icons {
+  width: 100px;
+  cursor: pointer;
+}
+.icons2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.hidden {
+  display: none;
+}
