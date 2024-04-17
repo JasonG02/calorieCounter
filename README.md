@@ -1,2 +1,2 @@
-# calorieCounter
-Calorie Counter Application
+# calorie Counter
+Calorie Counter Application in development
